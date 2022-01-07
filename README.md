@@ -31,7 +31,7 @@ The attributes are as follows:
 
 11. US :- A factor with levels No and Yes to indicate whether the store is in the US or not
 
-The company dataset looks like this: 
+* The company dataset looks like this: 
 
 Problem Statement :- A cloth manufacturing company is interested to know about the segment or attributes causes high sale. 
 
